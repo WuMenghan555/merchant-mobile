@@ -9,9 +9,9 @@
 
 ```bash
 
-git clone https://github.com/sunniejs/vue-h5-template.git
+git clone https://github.com/WuMenghan555/merchant-mobile.git
 
-cd vue-h5-template
+cd merchant-mobile
 
 npm install
 
